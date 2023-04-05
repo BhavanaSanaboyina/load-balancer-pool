@@ -1,0 +1,7 @@
+resource_group_name = "my_RG"
+location            = ""
+public_ip_name      = "Public_ip"
+allocation_method   = "static"
+lb_name             = "MY_lb"
+lb_frontend_name    = "lb_frontend"
+lb_bap_name         = "backend_address_pool"
